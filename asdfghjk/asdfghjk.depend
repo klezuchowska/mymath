@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1523566306 source:c:\users\justyna\desktop\asdfghjk\funkcje.cpp
+
+1523566355 source:c:\users\justyna\desktop\asdfghjk\main.cpp
+	<iostream>
+	"funkcje.h"
+
+1523566306 c:\users\justyna\desktop\asdfghjk\funkcje.h
+
